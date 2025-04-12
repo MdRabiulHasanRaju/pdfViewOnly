@@ -9,7 +9,8 @@
 
 </head>
 <body>
-<button onclick="openViewer()">Read PDF</button>
+<button onclick="openViewer('Excel Book -Server IT Studio.pdf')">View Doc 1</button>
+<button onclick="openViewer('doc2.pdf')">View Doc 2</button>
 <script src="pdf.js"></script>
 </body>
 </html>
